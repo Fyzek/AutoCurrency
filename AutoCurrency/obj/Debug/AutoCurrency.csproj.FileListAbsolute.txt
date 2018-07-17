@@ -1,0 +1,12 @@
+E:\Desktop\AutoCurrency\AutoCurrency\bin\Debug\AutoCurrency.exe
+E:\Desktop\AutoCurrency\AutoCurrency\bin\Debug\AutoCurrency.pdb
+E:\Desktop\AutoCurrency\AutoCurrency\obj\Debug\AutoCurrency.csprojResolveAssemblyReference.cache
+E:\Desktop\AutoCurrency\AutoCurrency\obj\Debug\AutoCurrency.Form1.resources
+E:\Desktop\AutoCurrency\AutoCurrency\obj\Debug\AutoCurrency.Properties.Resources.resources
+E:\Desktop\AutoCurrency\AutoCurrency\obj\Debug\AutoCurrency.csproj.GenerateResource.Cache
+E:\Desktop\AutoCurrency\AutoCurrency\obj\Debug\AutoCurrency.exe
+E:\Desktop\AutoCurrency\AutoCurrency\obj\Debug\AutoCurrency.pdb
+E:\Desktop\AutoCurrency\AutoCurrency\bin\Debug\AutoCurrency.exe.config
+E:\Desktop\AutoCurrency\AutoCurrency\obj\Debug\AutoCurrency.Form2.resources
+E:\Desktop\AutoCurrency\AutoCurrency\obj\Debug\AutoCurrency.Currency.resources
+E:\Desktop\AutoCurrency\AutoCurrency\obj\Debug\AutoCurrency.AutoC.resources
